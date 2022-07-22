@@ -1,6 +1,6 @@
 import cv2
-import os
-import time 
+# import os
+# import time 
 import sys
 
 def save_frame_camera_cycle(device_num, window_name='frame'):
